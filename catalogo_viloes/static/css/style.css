@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background-color: #B4D1EC;
+}
+
+nav{
+    background-color: #89b1d6;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+nav a{
+    color: #E95B95;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+}
